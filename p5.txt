@@ -2,6 +2,10 @@ Server:
 add > new item > Web Service File (.asmx)
 
 Client:
+right click on project > add web reference
+advanced > click add web reference
+enter full url click go
+
 WebForm1.aspx:-
 <form id="form1" runat="server">
         <div>
